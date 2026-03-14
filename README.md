@@ -5,6 +5,7 @@ The objective is to explore customer activity, understand spending patterns, ide
 
 The analysis combines exploratory data analysis in Python with business-focused visualizations in Tableau to translate raw customer data into actionable insights.
 
+![Credit Card Churn Dashboard](images/dashboard-preview.png)
 ---
 
 ## Tools and Technologies
